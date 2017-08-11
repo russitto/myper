@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "rollup-plugin-uglify": "^2.0.1"
+  }
+}
